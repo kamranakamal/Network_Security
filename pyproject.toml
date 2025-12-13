@@ -1,7 +1,9 @@
 [project]
+authors = [{ name = "kamran", email = "kamranakmal6776@gmail.com" }]
+license = { text = "MIT" }
 name = "networksecurity"
 version = "0.1.0"
-description = "Add your description here"
+description = "This is a machine learning project"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
